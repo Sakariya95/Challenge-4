@@ -4,7 +4,7 @@
 body{
     background-color: aqua;
     background-image: linear-gradient(315deg, white 0%, red 100%);
-    font-family:'Anek Devanagari', sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -54,5 +54,5 @@ button:hover{
 }
 button:focus{
     outline: none;
-    background-color: yellow;
+    background-color: yellowgreen;
 }
